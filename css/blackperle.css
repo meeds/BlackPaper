@@ -534,10 +534,6 @@ input[type="email"],
 	border: 1px solid #eee;
 	border-radius:4px;
     box-shadow: 2px 0px 4px rgba(0,0,0);
-	-webkit-animation-name: animatetop;
-	-webkit-animation-duration: 0.4s;
-	animation-name: animatetop;
-	animation-duration: 0.4s;
 }
 
 .modal-extra{
