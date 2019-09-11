@@ -1,4 +1,4 @@
-# BlackPerle
+# BlackPaper
 The simplest, mobile-first css start point
 
-Check out : http://blackperle.herokuapp.com/ for documentation and demos.
+Check out : http://blackpaper.herokuapp.com/ for documentation and demos.
